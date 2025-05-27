@@ -33,4 +33,6 @@ To visualize the generated XML in Groot2, open the generated file (e.g., my_tree
 
 This will result in a combined XML containing both the <BehaviorTree> definition and the <TreeNodesModel>, which can be loaded directly into Groot2 for visualization.
 
+To view the behavior tree ticking in real time, under the *Real-time Monitor Mode*, set the port number as 1667.
+ 
 **Note:** Installation instructions of Groot2 can be found [here](https://www.behaviortree.dev/groot/).
