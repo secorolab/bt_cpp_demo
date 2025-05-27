@@ -15,15 +15,15 @@ This repository contains a minimal working example using the [BehaviorTree.CPP](
   
 ### Build Instructions
 - From the same level as src/ folder, build the package
-```bash
-cmake -Bbuild
-cmake --build build
-```
+  ```bash
+  cmake -Bbuild
+  cmake --build build
+  ```
 
 - Execute by running: 
-```bash
-./build/bt_cpp_demo`
-```
+  ```bash
+  ./build/bt_cpp_demo`
+  ```
 
 ### Visualisation in Groot2
 
