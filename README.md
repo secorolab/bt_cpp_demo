@@ -28,8 +28,8 @@ This repository contains a minimal working example using the [BehaviorTree.CPP](
 ### Visualisation in Groot2
 
 To visualize the generated XML in Groot2, open the generated file (e.g., my_tree_groot.xml) and:  
-- Copy the contents of your original tree definition file (e.g., my_tree.xml), excluding the outer <root> tags
-- Paste that content just before the <TreeNodesModel> element inside the <root> tag in the generated XML
+- Copy the contents of your original tree definition file (e.g., my_tree.xml), excluding the outer `<root>' tags
+- Paste that content just before the `<TreeNodesModel>' element inside the <root> tag in the generated XML
 
 This will result in a combined XML containing both the <BehaviorTree> definition and the <TreeNodesModel>, which can be loaded directly into Groot2 for visualization.
 
